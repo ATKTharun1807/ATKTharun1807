@@ -74,22 +74,8 @@ I enjoy building secure, automated, and efficient systems, with a focus on Pytho
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Monishprabu003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monishprabu003&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Monishprabu003&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Monishprabu003&theme=tokyo-night&hide_border=true" />
-</p>
-
----
+📊 GitHub Stats — Tharun Kumar S
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ATKTharun1807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATKTharun1807&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ATKTharun1807&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ATKTharun1807&theme=tokyo-night&hide_border=true" /> </p>
 
 ### 🔗 Connect With Me  
 
