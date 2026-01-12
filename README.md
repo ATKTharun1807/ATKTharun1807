@@ -10,27 +10,28 @@
 
 ---
 
-### 👨‍💻 About Me  
+## 👨‍💻 About Me  
 
 I'm a passionate **Cyber Security student, Python Developer, and Linux Practitioner**.  
 I enjoy building secure, automated, and efficient systems, with a focus on Python-based tools, Linux administration, and DevSecOps practices.  
 
 - 🎓 Pursuing **B.E. in Cyber Security**  
 - 💻 Skilled in **Python, Java, C, JavaScript, Dart, Linux, and Web Development**  
-- 📫 Reach me at **tharunkumar23cys@srishakthi.ac.in**  
+- 📫 Reach me at **tharunkumar23cys@srishakthi.ac.in**
 
 ---
 
-### 🚀 Featured Projects  
+## 🚀 Featured Projects  
 
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔐 **SafePipe – Secret Leak Detection & Alerting in CI/CD Pipelines** *(Jun 2025 – Nov 2025)* | Developed a DevOps & cloud-based tool to detect and prevent secret leaks across CI/CD pipelines. Integrated real-time alerting, reporting, Dockerized deployment, and scalable cloud services for production use. | 🐍 Python • 🗄️ SQLite • 🖥️ Streamlit • 🎨 Tailwind CSS • 🤖 LangChain • 🔧 Jenkins • ☁️ Render • 🐳 Docker |
-| 📂 **Secure File Sharing Application – Flutter & Firebase** *(Jul 2024 – Dec 2024)* | Designed a cross-platform secure file sharing app (Android, iOS, Windows, macOS, Linux) with Firebase Authentication, real-time file transfers, format conversions, and instant notifications for smooth UX. | 💻 Dart • 🖥️ Flutter • ☁️ Firebase |
+|-------|-------------|------------|
+| 🔐 **SafePipe – Secret Leak Detection & Alerting in CI/CD Pipelines** *(Jun 2025 – Nov 2025)* | DevOps & cloud-based tool to detect and prevent secret leaks across CI/CD pipelines with real-time alerts, reporting, Dockerized deployment, and scalable cloud services. | Python, SQLite, Streamlit, Tailwind CSS, LangChain, Jenkins, Render, Docker |
+| 📂 **Secure File Sharing Application – Flutter & Firebase** *(Jul 2024 – Dec 2024)* | Cross-platform secure file sharing app with authentication, real-time file transfers, format conversions, and notifications. | Dart, Flutter, Firebase |
 
 ---
 
-### 💻 Programming Languages  
+## 💻 Programming Languages  
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,javascript,dart" /><br><br>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
@@ -42,7 +43,8 @@ I enjoy building secure, automated, and efficient systems, with a focus on Pytho
 
 ---
 
-### 🌐 Web Development  
+## 🌐 Web Development  
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,flutter,firebase" /><br><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
@@ -54,7 +56,8 @@ I enjoy building secure, automated, and efficient systems, with a focus on Pytho
 
 ---
 
-### ⚙️ Tools & Platforms  
+## ⚙️ Tools & Platforms  
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nmap,wireshark,docker,jenkins" /><br><br>
   <img src="https://img.shields.io/badge/Nmap-0C0C0C?logo=nmap&logoColor=white&style=for-the-badge"/>
@@ -65,25 +68,56 @@ I enjoy building secure, automated, and efficient systems, with a focus on Pytho
 
 ---
 
-### 🧠 Currently Exploring  
-- ⚙️ **DevOps Tools & Practices**  
-- 🔐 **Application Security**  
-- 🕵️ **Penetration Testing & Ethical Hacking**  
+## 🧠 Currently Exploring  
+
+- ⚙️ DevOps Tools & Practices  
+- 🔐 Application Security  
+- 🕵️ Penetration Testing & Ethical Hacking  
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ATKTharun1807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATKTharun1807&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ATKTharun1807&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ATKTharun1807&theme=tokyo-night&hide_border=true" />
+</p>
+
 ---
 
-📊 GitHub Stats — Tharun Kumar S
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ATKTharun1807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATKTharun1807&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ATKTharun1807&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ATKTharun1807&theme=tokyo-night&hide_border=true" /> </p>
+## 💻 LeetCode Stats & Streak  
 
-### 🔗 Connect With Me  
+<p align="center">
+  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">
+    <img src="https://leetcode-stats.vercel.app/api?username=lgsNroNVgg&theme=dark&show_icons=true" alt="LeetCode Stats - Tharun Kumar" />
+  </a>
+  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/lgsNroNVgg?theme=dark" alt="LeetCode Card - Tharun Kumar" />
+  </a>
+</p>
+
+<p align="center">
+  <b>👨‍💻 LeetCode Profile:</b>
+  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">Tharun Kumar</a>
+</p>
+
+---
+
+## 🔗 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tharun-kumar-s-369693296" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
+
   <a href="mailto:tharunkumar23cys@srishakthi.ac.in" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
