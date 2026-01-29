@@ -17,7 +17,7 @@ I enjoy building secure, automated, and efficient systems, with a focus on Pytho
 
 - 🎓 Pursuing **B.E. in Cyber Security**  
 - 💻 Skilled in **Python, Java, C, JavaScript, Dart, Linux, and Web Development**  
-- 📫 Reach me at **tharunkumar23cys@srishakthi.ac.in**
+- 📫 Reach me at **tharunkumars23cys@srishakthi.ac.in**
 
 ---
 
