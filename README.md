@@ -29,11 +29,7 @@ I enjoy building secure, automated, and efficient systems, with a focus on Pytho
 | 📂 **Secure File Sharing Application – Flutter & Firebase** *(Jul 2024 – Dec 2024)* | Cross-platform secure file sharing app with authentication, real-time file transfers, format conversions, and notifications. | Dart, Flutter, Firebase |
 | 🗳️ **VOTECHAIN (SafeVote) – Blockchain-Based Secure E-Voting System** *(Dec 2025 – Jan 2026)* | Developed a live decentralized e-voting web application using HTML, CSS, and JavaScript. Integrated Ethereum smart contracts via Web3.js and MetaMask for secure wallet-based authentication and vote casting. Ensured transparent, tamper-proof voting with blockchain-stored results and deployed the application on cloud hosting. | Blockchain, Solidity, Ethereum, Smart Contracts, JavaScript, HTML, CSS, Web3.js |
 
-### 🔗 Live Project
-https://vote-b8ro.onrender.com/
 
-### 🔗 GitHub Repository
-https://github.com/ATKTharun1807/vote/tree/master/SafeVote
 
 
 ## 💻 Programming Languages  
