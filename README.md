@@ -78,7 +78,7 @@ I enjoy building secure, automated, and efficient systems, with a focus on Pytho
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ATKTharun1807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -93,7 +93,7 @@ I enjoy building secure, automated, and efficient systems, with a focus on Pytho
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ATKTharun1807&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+
 
 ## 💻 LeetCode Stats & Streak  
 
