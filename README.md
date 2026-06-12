@@ -1,135 +1,172 @@
-<!-- 💼 Tharun Kumar S - Modernized Full GitHub Profile README -->
+<div align="center">
 
-# 👋 Hi, I'm Tharun Kumar S  
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D62,100:1ABC9C&height=200&section=header&text=Tharun%20Kumar%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cyber%20Security%20%7C%20Python%20%7C%20DevSecOps&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Cyber+Security+Student;Python+Developer;Linux+Practitioner;DevSecOps+Enthusiast;Software+Developer" alt="Typing SVG" />
-  </a>
-</p>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&width=650&lines=Cyber+Security+Student+%F0%9F%94%90;Python+Developer+%F0%9F%90%8D;Linux+Practitioner+%F0%9F%90%A7;DevSecOps+Enthusiast+%E2%9A%99%EF%B8%8F;Building+Secure+Systems+%F0%9F%9B%A1%EF%B8%8F" />
+</a>
 
----
+<br/>
 
-## 👨‍💻 About Me  
+<!-- Profile Badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-1ABC9C?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-alpha-eight-0s7sieengg.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharun-kumar-s-369693296)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATKTharun1807)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/lgsNroNVgg/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharunkumars23cys@srishakthi.ac.in)
 
-I'm a passionate **Cyber Security student, Python Developer, and Linux Practitioner**.  
-I enjoy building secure, automated, and efficient systems, with a focus on Python-based tools, Linux administration, and DevSecOps practices.  
-
-- 🎓 Pursuing **B.E. in Cyber Security**  
-- 💻 Skilled in **Python, Java, C, JavaScript, Dart, Linux, and Web Development**  
-- 📫 Reach me at **tharunkumars23cys@srishakthi.ac.in**
-- 🌐 **Portfolio:** [Visit my website](https://portfolio-alpha-eight-0s7sieengg.vercel.app/)
-
----
-
-## 🚀 Featured Projects  
-
-| Project | Description | Tech Stack |
-|-------|-------------|------------|
-| 🔐 **SafePipe – Secret Leak Detection & Alerting in CI/CD Pipelines** *(Jun 2025 – Nov 2025)* | DevOps & cloud-based tool to detect and prevent secret leaks across CI/CD pipelines with real-time alerts, reporting, Dockerized deployment, and scalable cloud services. | Python, SQLite, Streamlit, Tailwind CSS, LangChain, Jenkins, Render, Docker |
-| 📂 **Secure File Sharing Application – Flutter & Firebase** *(Jul 2024 – Dec 2024)* | Cross-platform secure file sharing app with authentication, real-time file transfers, format conversions, and notifications. | Dart, Flutter, Firebase |
-| 🗳️ **VOTECHAIN (SafeVote) – Blockchain-Based Secure E-Voting System** *(Dec 2025 – Feb 2026)* | Developed a live decentralized e-voting web application using HTML, CSS, and JavaScript. Integrated Ethereum smart contracts via Web3.js and MetaMask for secure wallet-based authentication and vote casting. Ensured transparent, tamper-proof voting with blockchain-stored results and deployed the application on cloud hosting. | Blockchain, Solidity, Ethereum, Smart Contracts, JavaScript, HTML, CSS, Web3.js |
-
-
-
-
-## 💻 Programming Languages  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,dart" /><br><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge"/>
-</p>
+</div>
 
 ---
 
-## 🌐 Web Development  
+## 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,flutter,firebase" /><br><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/>
-</p>
+```yaml
+name        : Tharun Kumar S
+role        : Cyber Security Student & Python Developer
+education   : B.E. in Cyber Security
+location    : Coimbatore, India
+focus       : Secure Systems · DevSecOps · Penetration Testing
+contact     : tharunkumars23cys@srishakthi.ac.in
+portfolio   : https://portfolio-alpha-eight-0s7sieengg.vercel.app/
+```
 
----
-
-## ⚙️ Tools & Platforms  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nmap,wireshark,docker,jenkins" /><br><br>
-  <img src="https://img.shields.io/badge/Nmap-0C0C0C?logo=nmap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wireshark-0078D7?logo=wireshark&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge"/>
-</p>
+> I enjoy building **secure, automated, and efficient systems**, with a focus on Python-based tools, Linux administration, and DevSecOps practices.
 
 ---
 
-## 🧠 Currently Exploring  
+## 🚀 Featured Projects
 
-- ⚙️ DevOps Tools & Practices  
-- 🔐 Application Security  
-- 🕵️ Penetration Testing & Ethical Hacking  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 SafePipe
+**Secret Leak Detection & Alerting in CI/CD Pipelines**
+*(Jun 2025 – Nov 2025)*
+
+DevOps & cloud-based tool to detect and prevent secret leaks across CI/CD pipelines with real-time alerts, reporting, Dockerized deployment, and scalable cloud services.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗳️ VOTECHAIN (SafeVote)
+**Blockchain-Based Secure E-Voting System**
+*(Dec 2025 – Feb 2026)*
+
+Decentralized e-voting web application with Ethereum smart contracts via Web3.js and MetaMask for secure wallet-based authentication. Transparent, tamper-proof results on blockchain.
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📂 Secure File Sharing App
+**Flutter & Firebase Cross-Platform App**
+*(Jul 2024 – Dec 2024)*
+
+Cross-platform secure file sharing app with authentication, real-time file transfers, format conversions, and notifications.
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔭 Currently Exploring
+
+- ⚙️ **DevOps Tools & Practices**
+- 🔐 **Application Security**
+- 🕵️ **Penetration Testing & Ethical Hacking**
+
+> *"Security is not a product, but a process."*
+> — Bruce Schneier
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Web & Mobile**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Security & DevOps**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0C0C0C?style=for-the-badge&logo=nmap&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ATKTharun1807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATKTharun1807&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ATKTharun1807&theme=tokyonight&hide_border=true" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ATKTharun1807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=1ABC9C&icon_color=1ABC9C" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATKTharun1807&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1ABC9C" />
 
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ATKTharun1807&theme=tokyo-night&hide_border=true" />
-</p>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ATKTharun1807&theme=tokyonight&hide_border=true&background=0D1117&ring=1ABC9C&fire=1ABC9C&currStreakLabel=1ABC9C" />
 
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ATKTharun1807&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1ABC9C&line=1ABC9C&point=FFFFFF" />
 
-
-## 💻 LeetCode Stats & Streak  
-
-<p align="center">
-  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">
-    <img src="https://leetcode-stats.vercel.app/api?username=lgsNroNVgg&theme=dark&show_icons=true" alt="LeetCode Stats - Tharun Kumar" />
-  </a>
-  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/lgsNroNVgg?theme=dark" alt="LeetCode Card - Tharun Kumar" />
-  </a>
-</p>
-
-<p align="center">
-  <b>👨‍💻 LeetCode Profile:</b>
-  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">Tharun Kumar</a>
-</p>
+</div>
 
 ---
 
-## 🔗 Connect With Me  
+## 🧩 LeetCode
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tharun-kumar-s-369693296" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<div align="center">
 
-  <a href="mailto:tharunkumar23cys@srishakthi.ac.in" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/lgsNroNVgg?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/lgsNroNVgg/)
 
-  <a href="https://github.com/ATKTharun1807" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+**👨‍💻 Profile:** [leetcode.com/u/lgsNroNVgg](https://leetcode.com/u/lgsNroNVgg/)
 
-  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1ABC9C,50:0A3D62,100:0D1117&height=120&section=footer" />
+
+*"Cyber student | learning by committing every day"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=ATKTharun1807&color=1ABC9C&style=flat-square&label=Profile+Views)
+
+</div>
