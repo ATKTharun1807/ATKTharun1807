@@ -54,36 +54,39 @@ DevOps & cloud-based tool to detect and prevent secret leaks across CI/CD pipeli
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
+**🔗 Live Demo:** https://safe-pipe-devsecops-project-8.onrender.com/
 </td>
 <td width="50%" valign="top">
 
-### 🗳️ VOTECHAIN (SafeVote)
+### 🗳️ VoteChain (SafeVote)
 **Blockchain-Based Secure E-Voting System**
 *(Dec 2025 – Feb 2026)*
 
-Decentralized e-voting web application with Ethereum smart contracts via Web3.js and MetaMask for secure wallet-based authentication. Transparent, tamper-proof results on blockchain.
+A decentralized e-voting platform built on Ethereum that enables secure, transparent, and tamper-proof digital elections. The application uses Solidity smart contracts, Web3.js, and MetaMask for wallet-based authentication, ensuring that each vote is recorded immutably on the blockchain while allowing anyone to verify election results.
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+**🔗 Live Demo:** https://votechain18.netlify.app/
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📂 Secure File Sharing App
-**Flutter & Firebase Cross-Platform App**
-*(Jul 2024 – Dec 2024)*
+### 🎓 AlumedIn – Alumni Networking Platform
+**React, Node.js, Express & PostgreSQL**
+*(2025 – Present)*
 
-Cross-platform secure file sharing app with authentication, real-time file transfers, format conversions, and notifications.
+A full-stack alumni networking platform that connects students and alumni through professional profiles, mentorship, job referrals, events, discussions, and networking opportunities. Features secure authentication, role-based access, responsive UI, and real-time communication.
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
+**🔗 Live Demo:** https://alumedin.onrender.com
 </td>
 <td width="50%" valign="top">
 
